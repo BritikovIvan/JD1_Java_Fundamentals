@@ -1,1 +1,1 @@
-# LD1_Java_Fundamentals
+# JD1_Java_Fundamentals
